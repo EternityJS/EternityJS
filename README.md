@@ -7,5 +7,5 @@
 - Junior Front-End Developer.
 
 <a href="https://discord.gg/cHKyXXTBY3">
-  <img src="http://invidget.switchblade.xyz/gbAC9sa" />
+  <img src="https://discord.gg/cHKyXXTBY3" />
 </a>
