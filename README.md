@@ -7,5 +7,5 @@
 - Junior Front-End Developer.
 
 <a href="https://discord.gg/cHKyXXTBY3">
-  <img="https://media.discordapp.net/attachments/601888841405562880/710896307744669726/HayasakaGifka.gif" />
+  <img srl="https://media.discordapp.net/attachments/601888841405562880/710896307744669726/HayasakaGifka.gif" />
 </a>
