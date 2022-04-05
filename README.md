@@ -19,4 +19,4 @@ Thank you for opening my profile. I am an ordinary person who is fond of program
 ### **Изучаемые языки**
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discordjs/discordjs.png"> 
+src="https://yandex.ru/images/search?text=discord.js+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0&img_url=https%3A%2F%2Fdoy2mn9upadnk.cloudfront.net%2Fuploads%2Fdefault%2Foriginal%2F4X%2F9%2Fc%2F2%2F9c2a0d42ce784ca29f95d4c3d1fcc8c38760e2a7.png&pos=1&rpt=simage&stype=image&lr=11229&parent-reqid=1649152681592381-11819501237567309863-vla1-1620-vla-l7-balancer-8080-BAL-5115&source=serp"> 
