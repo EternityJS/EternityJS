@@ -2,6 +2,8 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+EternityJS!&center=true&width=380&height=45"> </p>
   <a href="https://github.com/DevSpen"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/EternityJS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
+</p>
+<br>
 Спасибо, что открыл мой профиль. Я — обычный человек, увлекающийся кодингом.
 
 ### Мои небольшие достижения
