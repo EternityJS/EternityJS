@@ -19,4 +19,4 @@ Thank you for opening my profile. I am an ordinary person who is fond of program
 ### **Изучаемые языки**
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="40"
-src="https://media.discordapp.net/attachments/960832486559084584/960841420409802752/unnamed.jpg?width=636&height=636"> 
+src="https://media.discordapp.net/attachments/960832486559084584/960841587439587378/1635194709218_b193f369e4788d7b74434b4bd7d0cd89.png"> 
