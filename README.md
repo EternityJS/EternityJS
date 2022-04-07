@@ -16,7 +16,8 @@ Thank you for opening my profile. I am an ordinary person who is fond of program
 </a>
 
 ---
-### **Изучаемые языки**
+### Languages & Tools
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="40"
-src="https://media.discordapp.net/attachments/960832486559084584/960841587439587378/1635194709218_b193f369e4788d7b74434b4bd7d0cd89.png"> 
+[<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](https://www.javascript.com/)
+[<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>](https://nodejs.org/en/) 
