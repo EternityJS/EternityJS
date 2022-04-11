@@ -26,4 +26,4 @@ Thank you for opening my profile. I am an ordinary person who is fond of program
 
 <a href="https://nightmare-dev.ml/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/936977459289677905)](https://discord.com/users/396571938081865741)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/936977459289677905)](https://discord.com/users/936977459289677905)
