@@ -5,8 +5,6 @@
 </p>
 Thank you for opening my profile. I am an ordinary person who is fond of programming.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/936977459289677905)](https://discord.com/users/396571938081865741)
-
 
 ### Мои достижения x)
 - Junior Front-End Developer.
@@ -27,3 +25,5 @@ Thank you for opening my profile. I am an ordinary person who is fond of program
 [<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://code.visualstudio.com/) 
 
 <a href="https://nightmare-dev.ml/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/936977459289677905)](https://discord.com/users/396571938081865741)
