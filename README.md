@@ -5,6 +5,9 @@
 </p>
 Thank you for opening my profile. I am an ordinary person who is fond of programming.
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/936977459289677905)](https://discord.com/users/396571938081865741)
+
+
 ### Мои достижения x)
 - Junior Front-End Developer.
 - Создатель бота [Hayasaka](https://discord.com/oauth2/authorize?client_id=934233502558326794&permissions=49630272&scope=bot%20applications.commands).
