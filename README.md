@@ -18,6 +18,8 @@ Thank you for opening my profile. I am an ordinary person who is fond of program
 
  ## Места где я обитаю и другое:
 [![Discord](https://img.shields.io/badge/-Discord-3C2886?style=for-the-badge&logo=Discord&logoColor=1195F5)](https://discord.com/XdtTNszBsm)
+[![VKontakte](https://img.shields.io/badge/-Vkontakte-3C2886?style=for-the-badge&logo=Vk&logoColor=149FDC)](https://vk.com/kayouakyloff)
+[![Twitch](https://img.shields.io/badge/-Twitch-3C2886?style=for-the-badge&logo=Twitch&logoColor=974FFF)](https://twitch.tv/kanekivhaise)
 
 --- 
 
