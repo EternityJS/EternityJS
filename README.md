@@ -8,9 +8,9 @@ Thank you for opening my profile. I am an ordinary person who is fond of program
 
 ### Мои достижения x)
 - Junior Front-End Developer.
-- Создатель бота [Hayasaka](https://discord.com/oauth2/authorize?client_id=934233502558326794&permissions=49630272&scope=bot%20applications.commands).
+- Создатель бота [Katyusha](https://discord.com/oauth2/authorize?client_id=934233502558326794&permissions=49630272&scope=bot%20applications.commands).
 - Contact Me : EternityJS@yahoo.com<br>
-- Discord : [Hayasaka](https://dsc.gg/hayasaka)<br>
+- Discord : [Katyusha](https://dsc.gg/Katyusha-support)<br>
 
 <a href="https://discord.gg/Pj2EuYEkew">
   <img src="http://invidget.switchblade.xyz/Pj2EuYEkew" />
