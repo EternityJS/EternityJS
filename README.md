@@ -16,6 +16,9 @@ Thank you for opening my profile. I am an ordinary person who is fond of program
   <img src="http://invidget.switchblade.xyz/Pj2EuYEkew" />
 </a>
 
+ ## Места где я обитаю и другое:
+[![Discord](https://img.shields.io/badge/-Discord-3C2886?style=for-the-badge&logo=Discord&logoColor=1195F5)](https://discord.com/XdtTNszBsm)
+
 --- 
 
 <a href="https://nightmare-dev.ml/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
