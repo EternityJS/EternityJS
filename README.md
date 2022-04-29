@@ -8,12 +8,12 @@
 
 ### Мои достижения x)
 - Junior Front-End Developer.
-- Создатель бота [Katyusha](https://discord.com/oauth2/authorize?client_id=934233502558326794&permissions=49630272&scope=bot%20applications.commands).
+- Создатель бота [Kaneki Ken](https://discord.com/oauth2/authorize?client_id=940635245932339211&permissions=49630272&scope=bot%20applications.commands).
 - Contact Me : EternityJS@yahoo.com<br>
-- Discord : [Katyusha](https://dsc.gg/Katyusha-support)<br>
+- Discord : [Katyusha](https://discord.gg/XdtTNszBsm)<br>
 
-<a href="https://discord.gg/Pj2EuYEkew">
-  <img src="http://invidget.switchblade.xyz/Pj2EuYEkew" />
+<a href="https://discord.gg/XdtTNszBsm">
+  <img src="http://invidget.switchblade.xyz/XdtTNszBsm" />
 </a>
 
  ## Места где я обитаю:
