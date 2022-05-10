@@ -23,4 +23,8 @@
 
 --- 
 
+<h3 align="left">・Workspaces:</h3>
+<p><a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-visual studio code-252525?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /></p>
+<h3>・Contacts:</h3><p></p>
+
 <a href="https://nightmare-dev.ml/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
