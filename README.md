@@ -25,7 +25,7 @@
 
 <h3 align="left">
 🛠 Workspaces:
-<p align="center">
+</p>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
     <img alt="Webstorm" src="https://img.shields.io/badge/Webstorm%20-4B32C3?&style=for-the-badge&logo=Webstorm&logoColor=white" />
 <h3>・Contacts:</h3><p></p>
