@@ -16,13 +16,6 @@
   <img src="http://invidget.switchblade.xyz/XdtTNszBsm" />
 </a>
 
- ## Места где я обитаю:
-[![Discord](https://img.shields.io/badge/-Discord-3C2886?style=for-the-badge&logo=Discord&logoColor=1195F5)](https://discord.com/XdtTNszBsm)
-[![VKontakte](https://img.shields.io/badge/-Vkontakte-3C2886?style=for-the-badge&logo=Vk&logoColor=149FDC)](https://vk.com/kayouakyloff)
-[![Twitch](https://img.shields.io/badge/-Twitch-3C2886?style=for-the-badge&logo=Twitch&logoColor=974FFF)](https://twitch.tv/kanekivhaise)
-
---- 
-
 <h3 align="left">
 
 🛠 Workspaces:
