@@ -10,10 +10,10 @@
 - Junior Front-End Developer.
 - Создатель бота [Kaneki Ken](https://discord.com/oauth2/authorize?client_id=940635245932339211&permissions=49630272&scope=bot%20applications.commands).
 - Contact Me : EternityJS@yahoo.com<br>
-- Discord : [Kaneki Ken](https://discord.gg/XdtTNszBsm)<br>
+- Discord : [Kaneki Ken](https://discord.gg/vCrpsFFmCV)<br>
 
-<a href="https://discord.gg/XdtTNszBsm">
-  <img src="http://invidget.switchblade.xyz/XdtTNszBsm" />
+<a href="https://discord.gg/vCrpsFFmCV">
+  <img src="http://invidget.switchblade.xyz/vCrpsFFmCV" />
 </a>
 
 --- 
