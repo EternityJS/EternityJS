@@ -12,10 +12,6 @@
 - Contact Me : EternityJS@yahoo.com<br>
 - Discord : [Kaneki Ken](https://discord.gg/vCrpsFFmCV)<br>
 
-<a href="https://discord.gg/vCrpsFFmCV">
-  <img src="http://invidget.switchblade.xyz/vCrpsFFmCV" />
-</a>
-
 --- 
 
 <h3 align="left">
