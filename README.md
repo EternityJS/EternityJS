@@ -12,6 +12,7 @@
 - Contact Me : EternityJS@yahoo.com<br>
 - Discord : [Kaneki Ken](https://discord.gg/vCrpsFFmCV)<br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/936977459289677905)](https://discord.com/users/936977459289677905)
 --- 
 
 <h3 align="left">
