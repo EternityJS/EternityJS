@@ -14,6 +14,5 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/936977459289677905)](https://discord.com/users/936977459289677905)
 --- 
-
 <h3 align="left">
 <a href="https://nightmare-dev.ml/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
